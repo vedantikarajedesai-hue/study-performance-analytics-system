@@ -26,3 +26,5 @@ A Python-based productivity analytics system built using Google Colab.
 
 ## Project Goal
 To create a smart study performance analytics system that helps students track productivity, consistency, and weak areas effectively.
+## Here, try it out yourself !
+https://study-performance-analytics-system-kqdgya6rdenlzehs3xgaac.streamlit.app/
